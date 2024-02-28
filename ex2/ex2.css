@@ -1,2 +1,26 @@
 /* 🦊 Créez vos styles ici */
 /* Colors: #62374e, #fdc57b  */
+.container {
+    position: relative;
+}
+
+.carré {
+    height: 300px;
+    width: 400px;
+    color: #62374e;
+}
+
+.petitcarré {
+    display: flex;
+    flex-wrap: wrap;
+    color: #fdc57b;
+    position: absolute;
+    height: 50px;
+    width: 50px;
+}
+
+.carré1 .carré2 .carré3 .carré4 {
+    height: 50px;
+    width: 50px;
+    color: #fdc57b;
+}

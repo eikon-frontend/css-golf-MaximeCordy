@@ -1,2 +1,14 @@
 /* 🦊 Créez vos styles ici */
 /* Colors: #6592cf, #243d83, #eeb850  */
+h1 {
+    color: #6592cf;
+
+}
+
+p {
+    color: #243d83;
+}
+
+h2 {
+    color: #eeb850
+}
